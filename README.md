@@ -1,6 +1,6 @@
 # Web Component Snippets
 
-This is a collection of snippets for Native Web Components. Not using a framework and is based on the (Custom Element Starter)[https://github.com/LuceStudio/custom-elements-starter] by Luce Studio.
+This is a collection of snippets for Native Web Components. Not using a framework and is based on the [Custom Element Starter](https://github.com/LuceStudio/custom-elements-starter) by Luce Studio.
 The snippets are not limited to that starter, but work very well with it.
 
 ## Included snippets:
