@@ -4,6 +4,7 @@
   "description": "Snippets for use with web components!",
   "version": "0.0.1",
   "publisher": "LuceStudio",
+  "icon": "icon.jpg",
   "repository": "https://github.com/LuceStudio/vscode_web_component_snippets",
   "engines": {
     "vscode": "^1.28.0"
