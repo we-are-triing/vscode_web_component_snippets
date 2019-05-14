@@ -27,7 +27,7 @@
       "\tattributeChangedCallback(attrName, oldVal, newVal) {",
       "\t\tswitch(attrName){",
       "\t\t\tcase '${5:attr}':",
-      "\t\t\t\tthis.elems.link.setAttribute('${5:attr}',newVal);",
+      "\t\t\t\tthis.elems.${3:elem}.setAttribute('${5:attr}',newVal);",
       "\t\t\t\tbreak;",
       "\t\t\tdefault:",
       "\t\t\t\tbreak;",
