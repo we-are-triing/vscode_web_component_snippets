@@ -1,0 +1,21 @@
+{
+  "name": "web-component-snippets",
+  "displayName": "Web Component Snippets",
+  "description": "Snippets for use with web components!",
+  "version": "0.0.1",
+  "publisher": "Luce Studio",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets.json"
+      }
+    ]
+  }
+}
