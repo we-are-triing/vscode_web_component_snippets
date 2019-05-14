@@ -3,7 +3,7 @@
   "displayName": "Web Component Snippets",
   "description": "Snippets for use with web components!",
   "version": "0.0.1",
-  "publisher": "Luce Studio",
+  "publisher": "LuceStudio",
   "engines": {
     "vscode": "^1.28.0"
   },
