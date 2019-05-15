@@ -96,7 +96,6 @@
       "\t\t});",
       "\t});",
       "",
-      "\tobserver.observe(this, { childList: true });",
       "\treturn observer;",
       "}",
       "",
