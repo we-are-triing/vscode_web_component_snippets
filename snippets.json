@@ -83,6 +83,11 @@
     ],
     "description": "Getter and Setter for attribute without a value."
   },
+  "custom event": {
+    "prefix": "custom event",
+    "body": ["this.dispatchEvent(new CustomEvent('${1:eventName}', {", "\tdetail: {", "\t\t${2}", "\t}", "}))"],
+    "description": "Getter and Setter for attribute without a value."
+  },
   "watch children": {
     "prefix": "watchChildren mutation observer",
     "body": [
