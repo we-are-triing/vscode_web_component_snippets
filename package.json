@@ -2,7 +2,7 @@
   "name": "web-component-snippets",
   "displayName": "Web Component Snippets",
   "description": "Snippets for use with web components!",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "LuceStudio",
   "icon": "icon.jpg",
   "repository": "https://github.com/LuceStudio/vscode_web_component_snippets",
